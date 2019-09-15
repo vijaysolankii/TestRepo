@@ -2,3 +2,8 @@ this is
 basic 
 assests
 Which i'm going to use in my Software-2.
+
+
+Assets may consists of followings.
+	1.Files
+	2.Multimedia
