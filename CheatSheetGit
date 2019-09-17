@@ -1,0 +1,36 @@
+This File Show the Basic Commands Which help you to learn and Explore the Git and Github.
+
+=====================================================================================================
+Step-1 : Download Git from 
+            A. For Windows Click on this (https://git-scm.com/download/win)
+            B. For Unix/Linux/Debian/Ubuntu Click on this (
+                  You need to follow this commands as from the official Git Site:
+                    For the latest stable version for your release of Unix/Linux/Debian/Ubuntu 
+                        # apt-get install git
+                      For Unix/Linux/Debian/Ubuntu, this PPA provides the latest stable upstream Git version
+                        # add-apt-repository ppa:git-core/ppa # apt update; apt install git
+                      Fedora
+                        # yum install git (up to Fedora 21)
+                        # dnf install git (Fedora 22 and later)
+                      Gentoo
+                        # emerge --ask --verbose dev-vcs/git
+                      Arch Linux
+                        # pacman -S git
+                      openSUSE
+                        # zypper install git
+                      Mageia
+                        # urpmi git
+                      Nix/NixOS
+                        # nix-env -i git
+                      FreeBSD
+                        # pkg install git
+                      Solaris 9/10/11 (OpenCSW)
+                        # pkgutil -i git
+                      Solaris 11 Express
+                        # pkg install developer/versioning/git
+                      OpenBSD
+                        # pkg_add git
+                      Alpine
+                        $ apk add git  
+                  )
+            C. For Mac Click on this (https://git-scm.com/download/mac)
