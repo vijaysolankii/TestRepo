@@ -35,4 +35,10 @@ Step-1 : Download Git from
                   )
             C. For Mac Click on this (https://git-scm.com/download/mac)
 =====================================================================================================================================
-Step-2 Basic commands to upload your project over Github
+
+step-2 : Add the GPG key on your account:
+            
+
+=====================================================================================================================================
+Step-3 Basic commands to upload your project over Github
+                      
