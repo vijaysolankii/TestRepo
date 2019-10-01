@@ -7,3 +7,6 @@ Which i'm going to use in my Software-2.
 Assets may consists of followings.
 	1.Files
 	2.Multimedia
+	3.Scanner
+	4.Product
+	5.Payment gateway
