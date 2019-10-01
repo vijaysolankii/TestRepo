@@ -37,8 +37,15 @@ Step-1 : Download Git from
 =====================================================================================================================================
 
 step-2 : Add the GPG key on your account:
-            
-
+            a. GO to settings
+            b. 
+                        1.Open Git Bash.
+                        2.Paste the text below, substituting in your GitHub email address.
+                          $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+                         
+                    after couple of min or second it will display this message            
+                        
+                        
 =====================================================================================================================================
 Step-3 Basic commands to upload your project over Github
                       
