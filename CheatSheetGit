@@ -66,10 +66,18 @@ step-2 : Add the GPG key on your account:
                         3.Add your SSH private key to the ssh-agent. If you created your key with a different name, or if you are adding an existing key that has a different name, replace id_rsa in the command with the name of your private key file.
 
                                     $ ssh-add ~/.ssh/id_rsa
-                                    
+                        4.your key is generated you can paste it on your notepad or any other sublime,Gedit or any other editor            
                                     
                         (#Note: GPG key is created and now you just need to add into your github account)
-
+               C. login into your Git account
+                        1.In the upper-right corner of any page, click your profile photo, then click Settings. 
+                        2.In the user settings sidebar, click SSH and GPG keys.
+                        3.Click New SSH key or Add SSH key. 
+                        4.In the "Title" field, add a descriptive label for the new key. For example, if you're using a personal Machine, you might call this key "Personal Dell Insprion".
+                        5.Paste your key into the "Key" field.
+                        6.Click Add SSH key. 
+                        7.If prompted, confirm your GitHub password.  (For security reasons)
+                        8.Your key successfully sync with your dell machine, Now you can upload all your data over git repository
 
 
 
