@@ -73,7 +73,7 @@ step-2 : Add the GPG key on your account:
                         1.In the upper-right corner of any page, click your profile photo, then click Settings. 
                         2.In the user settings sidebar, click SSH and GPG keys.
                         3.Click New SSH key or Add SSH key. 
-                        4.In the "Title" field, add a descriptive label for the new key. For example, if you're using a personal Machine, you might call this key "Personal Dell Insprion".
+                        4.In the "Title" field, add a  descriptive label for the new key. For example, if you're using a personal Machine, you might call this key "Personal Dell Insprion".
                         5.Paste your key into the "Key" field.
                         6.Click Add SSH key. 
                         7.If prompted, confirm your GitHub password.  (For security reasons)
