@@ -83,5 +83,16 @@ step-2 : Add the GPG key on your account:
                         
 =====================================================================================================================================
 Step-3 Basic commands to upload your project over Github
-            1.
-                      
+            1. Create simple repo in git 
+                        after creating repo you will see tons of command based on that select the ssh key and add ssh key into the git bash 
+                        then add following command 
+                                    git init
+                                    git push origin [branch name]
+                                    git push -u origin master
+                                    git add .
+                                    git commit -m "YOUR COMMIT"
+                                    git status
+                                    git pull 	
+                                    git pull origin master	
+                                    git log 	
+                                    git log -summary
